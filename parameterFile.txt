@@ -1,0 +1,4 @@
+indexPath=/Users/Danny/Documents/CMU/F14/11642 Search Engines/HW/HW1/index
+retrievalAlgorithm=UnrankedBoolean
+queryFilePath=queries.txt
+trecEvalOutputPath=HW1-queries-UB.teIn
